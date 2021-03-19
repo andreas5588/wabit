@@ -1,0 +1,4 @@
+# wabit
+Automatically exported from code.google.com/p/wabit
+
+Wabit is an easy-to-use, all-in-1 business intelligence reporting and analysis tool. It offers database and business users the ability to perform ad-hoc queries, generate standard reports, and more. It includes features such as a drag and drop playpen, live result-set updates, global searching, and WYSIWYG report formatting. With a single mouse click, query results can be instantly transformed into elegant reports that can be further customized with fonts, colors, sections, breaks, headers, footers, logos, and more. Wabit has support for standard reports and custom dashboards, ad-hoc queries and drill-down OLAP cubes, line, bar, and pie charts, real-time BI reporting, report scheduling/bursting (Enterprise edition), fine-grained security (Enterprise edition), thin-client Web access (Enterprise edition), an and an easy-to-use drag and drop interface (no SQL knowledge required).
